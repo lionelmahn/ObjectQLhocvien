@@ -24,7 +24,7 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 
 <h2>🚀 Thiết lập</h2>
 <h3>1️⃣ Clone repository</h2>
-- git clone https://github.com/username/repository.git
+- git clone https://github.com/lionelmahn/ObjectPHP_QuanLyCongViec.git
 - cd repository
 <h3>2️⃣ Composer and Laravel:</h3>
 - composer install
@@ -42,6 +42,13 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 
 # 🎯 Chức năng chính:
 - Quản lý học viên (Thêm, sửa, xóa, tìm kiếm)
+# 📌 Trạng Thái Dự Án
+## 🛠 Đang phát triển – Dự án vẫn đang trong quá trình xây dựng, các tính năng có thể thay đổi.
+---
+# 🔗 Truy cập ứng dụng
+👉 [Mở ứng dụng tại đây](https://symmetrical-umbrella-7vvp4rp5x456hr7rr-8000.app.github.dev/)
+👉 [Video demo](https://youtu.be/rjqEwdQFVdA)
+---
 <h1>Class Diagram</h1>
 <img src="case/diagram.png">
 <h1>Use case</h1>
@@ -61,10 +68,7 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 <img src='case/bieudohoatdongchucnangcapnhat.png'>
 <h2>Biểu đồ hoạt động chức năng xóa</h2>
 <img src='case/bieudohoatdongchucnangxoa.png'>
-
-# 🔗 Truy cập ứng dụng
-👉 [Mở ứng dụng tại đây](https://symmetrical-umbrella-7vvp4rp5x456hr7rr-8000.app.github.dev/)
-👉 [Video demo](https://youtu.be/rjqEwdQFVdA)
+---
 # Một vài hình ảnh demo về website
 <h2>Waiting Page</h2>
 <img src="case/wtpage.png">
@@ -82,6 +86,8 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 <img src="case/updatehv.png">
 <h2>Delete học viên</h2>
 <img src="case/deletehv.png">
+
+---
 
 
 
