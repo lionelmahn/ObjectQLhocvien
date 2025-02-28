@@ -43,7 +43,7 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 # 🎯 Chức năng chính:
 - Quản lý học viên (Thêm, sửa, xóa, tìm kiếm)
 <h1>Class Diagram</h1>
-
+<img src="case/diagram.png">
 <h1>Use case</h1>
 <h2>Case tổng quát</h2> 
 <img src='case/casetq.png'>
