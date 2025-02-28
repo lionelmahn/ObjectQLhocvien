@@ -2,11 +2,10 @@
 # Hệ thống quản lý học viên 
 
 ## 👋 About Me  
-Xin chào! Tôi là **Nguyễn Văn A** – một lập trình viên đam mê **Web Development**.  
+Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 - 🌱 Hiện tại tôi đang học Laravel và phát triển các ứng dụng web.  
-- 💻 Thành thạo: PHP, Laravel, JavaScript, MySQL, HTML, CSS.  
-- 🚀 Dự án nổi bật: [Hệ thống quản lý học viên](https://github.com/your-repo)  
-- 📫 Liên hệ: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)  
+- 🚀 Dự án nổi bật: [Hệ thống quản lý học viên](https://github.com/lionelmahn/ObjectQLhocvien/)  
+- 📫 Liên hệ: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](23010909@st.phenikaa-uni.edu.vn)  
 
 ---
 
@@ -23,41 +22,60 @@ Xin chào! Tôi là **Nguyễn Văn A** – một lập trình viên đam mê **
 
 ---
 
-## 🚀 Thiết lập
-### 1️⃣ Clone repository
+<h2>🚀 Thiết lập</h2>
+<h3>1️⃣ Clone repository</h2>
 - git clone https://github.com/username/repository.git
 - cd repository
-### 2️⃣ Composer and Laravel:
+<h3>2️⃣ Composer and Laravel:</h3>
 - composer install
 - cp .env.example .env
 - php artisan key:generate
 - composer create-project --prefer-dist laravel/laravel {ten_project}
-### 3️⃣ Configure Database Settings:
+<h3>3️⃣ Configure Database Settings:</h3>
 - Setup file .env
-### 4️⃣ Chạy migration và seed dữ liệu
+<h3>4️⃣ Chạy migration và seed dữ liệu</h3>
 - php artisan migrate --seed
-### 5️⃣ Chạy ứng dụng (local)
+<h3>5️⃣ Chạy ứng dụng (local)</h3>
 - php artisan serve
 ---
 
 
 # 🎯 Chức năng chính:
 - Quản lý học viên (Thêm, sửa, xóa, tìm kiếm)
-# Use case
-##
-<img src=''>
-##
-<img src=''>
-##
-<img src=''>
-##
-<img src=''>
-##
-# Class Diagram
+<h1>Class Diagram</h1>
+
+<h1>Use case</h1>
+<h2>Case tổng quát</h2> 
+<img src='case/casetq.png'>
+<h2>Use case Quản lý học viên</h2>
+<img src='case/caseqlhv.png'>
+<h2>Biểu đồ tuần tự chức năng thêm</h2>
+<img src='case/bieudotuantuchucnangthem.png'>
+<h2>Biểu đồ tuần tự chức năng update</h2>
+<img src='case/bieudotuantuchucnangcapnhat.png'>
+<h2>Biểu đổ tuần tự chức năng xóa</h2>
+<img src='case/bieudotuantuchucnangxoa.png'>
+<h2>Biểu đồ hoạt động chức năng thêm</h2>
+<img src='case/bieudohoatdongchucnangthem.png'>
+<h2>Biểu đồ hoạt động chức năng update</h2>
+<img src='case/bieudohoatdongchucnangcapnhat.png'>
+<h2>Biểu đồ hoạt động chức năng xóa</h2>
+<img src='case/bieudohoatdongchucnangxoa.png'>
+
 
 # 🔗 Truy cập ứng dụng
 👉 [Mở ứng dụng tại đây](https://symmetrical-umbrella-7vvp4rp5x456hr7rr-8000.app.github.dev/)
-# Some picture about our website
+# Một vài hình ảnh demo về website
+## Welcome
+## Đăng nhập
+## Đăng kí
+## Dashboad
+## Danh sách học viên
+## Thêm học viên
+## Update thông tin học viên
+## Delete học viên
+
+
 
 
 
