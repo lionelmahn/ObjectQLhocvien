@@ -64,6 +64,7 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 
 # 🔗 Truy cập ứng dụng
 👉 [Mở ứng dụng tại đây](https://symmetrical-umbrella-7vvp4rp5x456hr7rr-8000.app.github.dev/)
+👉 [Video demo](https://youtu.be/rjqEwdQFVdA)
 # Một vài hình ảnh demo về website
 <h2>Waiting Page</h2>
 <img src="case/wtpage.png">
