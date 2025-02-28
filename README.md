@@ -5,7 +5,7 @@
 Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 - 🌱 Hiện tại tôi đang học Laravel và phát triển các ứng dụng web.  
 - 🚀 Dự án nổi bật: [Hệ thống quản lý học viên](https://github.com/lionelmahn/ObjectQLhocvien/)  
-- 📫 Liên hệ: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](23010909@st.phenikaa-uni.edu.vn)  
+- 📫 Liên hệ:[Email](23010909@st.phenikaa-uni.edu.vn)  
 
 ---
 
@@ -62,18 +62,25 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 <h2>Biểu đồ hoạt động chức năng xóa</h2>
 <img src='case/bieudohoatdongchucnangxoa.png'>
 
-
 # 🔗 Truy cập ứng dụng
 👉 [Mở ứng dụng tại đây](https://symmetrical-umbrella-7vvp4rp5x456hr7rr-8000.app.github.dev/)
 # Một vài hình ảnh demo về website
-## Welcome
-## Đăng nhập
-## Đăng kí
-## Dashboad
-## Danh sách học viên
-## Thêm học viên
-## Update thông tin học viên
-## Delete học viên
+<h2>Waiting Page</h2>
+<img src="case/wtpage.png">
+<h2>Đăng nhập</h2>
+<img src="case/login.png">
+<h2>Đăng kí</h2>
+<img src="case/register.png">
+<h2>Dashboad</h2>
+<img src="case/dashboard.png">
+<h2>Danh sách học viên</h2>
+<img src="case/listhv.png">
+<h2>Thêm học viên</h2>
+<img src="case/addhv.png">
+<h2>Update thông tin học viên</h2>
+<img src="case/updatehv.png">
+<h2>Delete học viên</h2>
+<img src="case/deletehv.png">
 
 
 
