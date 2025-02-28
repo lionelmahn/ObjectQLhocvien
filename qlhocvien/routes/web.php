@@ -30,6 +30,9 @@ Route::middleware('auth')->group(function () {
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
     Route::resource('hocviens', HocVienController::class);
+    Route::get('/khoahocs', function () {
+        return view('khoahocs.index');
+    })->name('khoahocs.index');
 });
 
 require __DIR__ . '/auth.php';
