@@ -22,20 +22,20 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 
 ---
 
-<h2>🚀 Thiết lập</h2>
-<h3>1️⃣ Clone repository</h2>
+🚀 Thiết lập
+# 1️⃣ Clone repository
 - git clone https://github.com/lionelmahn/ObjectPHP_QuanLyCongViec.git
 - cd repository
-<h3>2️⃣ Composer and Laravel:</h3>
+# 2️⃣ Composer and Laravel:
 - composer install
 - cp .env.example .env
 - php artisan key:generate
 - composer create-project --prefer-dist laravel/laravel {ten_project}
-<h3>3️⃣ Configure Database Settings:</h3>
+# 3️⃣ Configure Database Settings:
 - Setup file .env
-<h3>4️⃣ Chạy migration và seed dữ liệu</h3>
+# 4️⃣ Chạy migration và seed dữ liệu
 - php artisan migrate --seed
-<h3>5️⃣ Chạy ứng dụng (local)</h3>
+# 5️⃣ Chạy ứng dụng (local)
 - php artisan serve
 ---
 
