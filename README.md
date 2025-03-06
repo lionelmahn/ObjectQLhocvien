@@ -4,7 +4,7 @@
 ## 👋 About Me  
 Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 - 🌱 Hiện tại tôi đang học Laravel và phát triển các ứng dụng web.  
-- 🚀 Dự án nổi bật: [Hệ thống quản lý học viên](https://github.com/lionelmahn/ObjectQLhocvien/)  
+- 🚀 Repositories Dự án được cập nhật mới nhất tính đến thời điểm hiện tại: [Hệ thống quản lý học viên](https://github.com/lionelmahn/QLKhoaHoc)  
 - 📫 Liên hệ:[Email](23010909@st.phenikaa-uni.edu.vn)  
 
 ---
@@ -44,6 +44,7 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 - Quản lý học viên (Thêm, sửa, xóa, tìm kiếm)
 # 📌 Trạng Thái Dự Án
 ## 🛠 Đang phát triển – Dự án vẫn đang trong quá trình xây dựng, các tính năng có thể thay đổi.
+- 🚀 Repositories Dự án được cập nhật mới nhất tính đến thời điểm hiện tại: [Hệ thống quản lý học viên](https://github.com/lionelmahn/QLKhoaHoc)  
 ---
 # 🔗 Truy cập ứng dụng
 👉 [Mở ứng dụng tại đây](https://symmetrical-umbrella-7vvp4rp5x456hr7rr-8000.app.github.dev/)
